@@ -14,7 +14,7 @@
 - Pandas
 - NumPy
 - Seaborn
-- Matplotlib
+- Matplotlib.pyplot
 - Scipy.stats
 - Анализ статистических гипотез
 
