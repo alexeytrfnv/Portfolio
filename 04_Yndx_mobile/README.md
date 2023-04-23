@@ -15,7 +15,7 @@
 - NumPy
 - Seaborn
 - Matplotlib
-- Scipy
+- Scipy.stats
 - Анализ статистических гипотез
 
 ## Выводы:
